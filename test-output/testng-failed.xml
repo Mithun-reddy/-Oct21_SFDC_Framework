@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Smoke Test Suite]" parallel="tests">
+  <parameter name="browser name" value="chrome"/>
+  <listeners>
+    <listener class-name="sfdc.utilities.ListenersUtilities"/>
+  </listeners>
+  <test name="LoginPage Tests firefox(failed)" parallel="tests">
+    <classes>
+      <class name="sfdc.tests.Login">
+        <methods>
+          <include name="launchApp"/>
+          <include name="initializePageObjects"/>
+          <include name="launchApp"/>
+          <include name="initializePageObjects"/>
+          <include name="loginTC01" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="finishTest"/>
+        </methods>
+      </class> <!-- sfdc.tests.Login -->
+    </classes>
+  </test> <!-- LoginPage Tests firefox(failed) -->
+  <test name="LoginPage Tests Chrome(failed)" parallel="tests">
+    <classes>
+      <class name="sfdc.tests.Login">
+        <methods>
+          <include name="launchApp"/>
+          <include name="initializePageObjects"/>
+          <include name="launchApp"/>
+          <include name="initializePageObjects"/>
+          <include name="loginTC01" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="finishTest"/>
+        </methods>
+      </class> <!-- sfdc.tests.Login -->
+    </classes>
+  </test> <!-- LoginPage Tests Chrome(failed) -->
+</suite> <!-- Failed suite [Smoke Test Suite] -->

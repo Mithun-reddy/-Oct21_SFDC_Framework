@@ -1,0 +1,55 @@
+Priorities in TestNG
+	lowest to highest
+	- to +
+	No priority is equal to zero priority
+	
+	Same priority
+	method name (A to Z) (a-z)
+	
+	By default --> All the methods are enabled = true
+	
+	
+	5 different classes (@test)
+	
+	
+	@BeforeSuite --> 1
+	@BeforeTest --> 1
+	@BeforeClass --> 5
+	@BeforeGroups --> depends
+	@BeforeMethod --> depends on number of @test in one class
+	@Test  ---> once
+	@AfterMethod
+	@AfterGroups  -->
+	@AfterClass --
+	@AfterTest
+	@AfterSuite
+	
+	AppUtilities --> launch app, login app, logout app
+	basicUtilities -->click, select element, iselementvisible, sendtext, wait, explicitwait
+	
+	Headless mode: Browser without GUI --> 60%
+	
+	How do you run all testcases collectively?
+	.xml
+	Smoke (40) --> smoke.xml
+	regression (599) --> regression.xml
+	
+	Cross-Browser testing: Chrome, firefox, safari
+	Different browsers: @parameter in testNG --> we can pass the parameteres at run time
+	Browserstack -->
+	
+	Parallel testing: 
+	Hub and node
+	TestNg xml files
+	Docker containers
+	
+	TestNgXMl files:
+	1. Static way
+	2. Programatically --> dynamic way 
+	
+	Maven session --> Include testng.xml in pom.xml
+	
+	
+	
+	
+	
