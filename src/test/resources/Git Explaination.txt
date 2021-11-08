@@ -1,0 +1,40 @@
+ Git- > D Version control tool , SVN --> VCS
+ 
+command line--> 
+ DVCS --> Distributed version control system
+ 
+ local: --> Each and every can have their own local copy
+ remote:--> central repository remote
+ 
+ 
+ Capture Picture --> It is available only on your phone (Local)
+ Upload to Icloud --> remote repo (Cloud)
+ 
+ Git and github
+ 
+ Git --> local repo (local) --> DVCS
+ Github --> central repo (cloud/remote)
+ 
+ Install Git:
+
+1. To check if git is installed: git --version
+2. Install git from https://git-scm.com/download/mac
+3. Login to Github: https://github.com/
+4. Create account --> username, password
+5. Create a repository
+6. Clone the repo to the local machine
+	a. Https -->
+	b. SSH --> How to add key?
+	
+	
+Untracked --> Files exist in your working directory(Local) 
+Staging area --> You can remove the file
+Git commit --> Version will be saved in your local git
+ 
+ 
+ 5 member team -->
+ 
+ QA1 --> loginPage.java --> Github --> master branch (latest code) --> to access the latest code
+ QA2, --> HomePage.java --> Github --> master branch
+ QA3,  --> Acoounts.java -->
+ QA4, QA5
