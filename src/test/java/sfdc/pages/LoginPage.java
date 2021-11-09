@@ -27,6 +27,9 @@ public class LoginPage extends BasePage {
 	public WebElement eErrorMessage;
 	
 	
+	//Hey this is an example
+	
+	
 	public boolean isLoginPageDisplayed() {
 		
 		
