@@ -22,5 +22,14 @@ public class CreateAccountPage {
 	public void createNewView() {
 
 	}
-
+	
+	public void createAccount() {
+		
+		System.out.println("Account created");
+	}
+	
+	public void deleteAccount(String accountName)
+	{
+		System.out.println("Account deleted"+ accountName);
+	}
 }
