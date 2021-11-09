@@ -34,5 +34,10 @@ public class HomePage {
 		
 	}
 	
+	public void verifyTabsInHomePage() {
+		
+		
+	}
+	
 
 }
