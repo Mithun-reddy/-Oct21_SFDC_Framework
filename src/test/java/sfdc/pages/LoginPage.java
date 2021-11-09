@@ -23,7 +23,7 @@ public class LoginPage extends BasePage {
 	@FindBy(name = "Login")
 	public WebElement eLoginButton;
 	
-	@FindBy(id = "error")
+	@FindBy(id = "errors")
 	public WebElement eErrorMessage;
 	
 	
