@@ -1,0 +1,49 @@
+Development --> Release cycles will be big
+
+CI/CD --> Continuous integration/ Continuous deployment
+
+Jenkins --> Open source, pipeline(Stages)
+
+CI -> When development teams need to push smaller changes on to VCS(Git) --> Mechanism to integrate and validate the changes.
+
+CD--> Dev --> jenkins --> QA --> (automation) + approval(Manual) --> Staging
+, QA, Stage, Prod
+
+Jenkins used for?
+
+1. CI and infrastructure code
+2. CD via pipelines, CD for multiple env
+3. batch operations
+4. ad-hoc ops like backups, cleanups, remote execution, scheduled, remote triggers
+
+Master - slave config
+
+Master (this will serve instructions to all the test machines): 
+Jenkins’s server or master node holds all key configurations. 
+Jenkins master server is like a control server that orchestrates all the workflow defined in the pipelines. 
+For example, scheduling a job, monitoring the jobs, etc.
+
+Slaves: Follows the instructions from master
+
+Jenkins file: 
+
+Jenkins (Job) triggered: Whenever there is a change in code. Jenkins based on time set 5PM
+
+Set schedules:
+* * * * *
+
+1. Minutes (0-59)
+2. Hours (0-23)
+3. Days in month (1-31)
+4. Month (1-12)
+5. Day in a week (0-7) 
+
+Run the job every Wednesday at 7 PM
+0 19 * * 3
+
+
+Debug --> 
+nightly --> 
+Release(cycle of release) --> 
+
+
