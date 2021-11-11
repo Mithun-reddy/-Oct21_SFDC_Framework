@@ -1,0 +1,937 @@
+# Created at 2021-11-10T10:33:24.880
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:397)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+
+
+# Created at 2021-11-10T10:33:50.850
+Unexpected IOException with stream: C:\Users\user\eclipse-workspace\SalesForceAutomationFramework//target//Reports//11_10_21,_10_33_AM.PNG
+
+
+# Created at 2021-11-10T10:33:50.864
+Unexpected IOException with stream: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TEKARCH', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54672}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8928cf1c465b79fcdcec1c23c1c02ef7
+
+# Created at 2021-11-10T10:33:50.866
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.871
+Unexpected IOException with stream: 	at jdk.internal.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+
+# Created at 2021-11-10T10:33:50.875
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.878
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-11-10T10:33:50.881
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.884
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+
+# Created at 2021-11-10T10:33:50.887
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.889
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-11-10T10:33:50.893
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.895
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-11-10T10:33:50.898
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.899
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-11-10T10:33:50.900
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.901
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-11-10T10:33:50.903
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.904
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-11-10T10:33:50.906
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.908
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-11-10T10:33:50.910
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.913
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-11-10T10:33:50.914
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.916
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+# Created at 2021-11-10T10:33:50.918
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.928
+Unexpected IOException with stream: 	at sfdc.utilities.BasicUtilities.getScreenCapture(BasicUtilities.java:106)
+
+# Created at 2021-11-10T10:33:50.931
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.933
+Unexpected IOException with stream: 	at sfdc.utilities.ListenersUtilities.onTestFailure(ListenersUtilities.java:28)
+
+# Created at 2021-11-10T10:33:50.938
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.946
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1716)
+
+# Created at 2021-11-10T10:33:50.950
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.955
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+
+# Created at 2021-11-10T10:33:50.959
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.961
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
+
+# Created at 2021-11-10T10:33:50.964
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.967
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+
+# Created at 2021-11-10T10:33:50.969
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.972
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+
+# Created at 2021-11-10T10:33:50.979
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.984
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+
+# Created at 2021-11-10T10:33:50.987
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.990
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+
+# Created at 2021-11-10T10:33:50.991
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.995
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+
+# Created at 2021-11-10T10:33:50.997
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:50.998
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:610)
+
+# Created at 2021-11-10T10:33:51.000
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.025
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+
+# Created at 2021-11-10T10:33:51.030
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.033
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+
+# Created at 2021-11-10T10:33:51.045
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.048
+Unexpected IOException with stream: 	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:421)
+
+# Created at 2021-11-10T10:33:51.050
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.052
+Unexpected IOException with stream: 	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+
+# Created at 2021-11-10T10:33:51.055
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.058
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+
+# Created at 2021-11-10T10:33:51.061
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.063
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+
+# Created at 2021-11-10T10:33:51.064
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.067
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+
+# Created at 2021-11-10T10:33:51.068
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.069
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:834)
+
+# Created at 2021-11-10T10:33:51.070
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.086
+Unexpected IOException: 8,1,sfdc.tests.Login,loginTC01(sfdc.tests.Login),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A*** Element info: {Using=id\002C value=exception},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A*** Element info: {Using=id\002C value=exception},Login.loginTC01:103 \00BB NoSuchWindow no such window: target window already close...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A*** Element info: {Using=id\002C value=exception}\000A\0009at sfdc.tests.Login.loginTC01(Login.java:103)\000A
+
+
+# Created at 2021-11-10T10:33:51.099
+Unexpected IOException with stream: C:\Users\user\eclipse-workspace\SalesForceAutomationFramework//target//Reports//11_10_21,_10_33_AM.PNG
+
+
+# Created at 2021-11-10T10:33:51.117
+Unexpected IOException with stream: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TEKARCH', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54672}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8928cf1c465b79fcdcec1c23c1c02ef7
+
+# Created at 2021-11-10T10:33:51.118
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.121
+Unexpected IOException with stream: 	at jdk.internal.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+
+# Created at 2021-11-10T10:33:51.126
+Unexpected IOException with stream: C:\Users\user\eclipse-workspace\SalesForceAutomationFramework//target//Reports//11_10_21,_10_33_AM.PNG
+
+
+# Created at 2021-11-10T10:33:51.128
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.130
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-11-10T10:33:51.131
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.134
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+
+# Created at 2021-11-10T10:33:51.135
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.138
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-11-10T10:33:51.140
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.141
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-11-10T10:33:51.144
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.147
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-11-10T10:33:51.151
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.153
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-11-10T10:33:51.154
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.156
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-11-10T10:33:51.157
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.159
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-11-10T10:33:51.159
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.161
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-11-10T10:33:51.162
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.162
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+# Created at 2021-11-10T10:33:51.163
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.165
+Unexpected IOException with stream: 	at sfdc.utilities.BasicUtilities.getScreenCapture(BasicUtilities.java:106)
+
+# Created at 2021-11-10T10:33:51.166
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.167
+Unexpected IOException with stream: 	at sfdc.utilities.ListenersUtilities.onTestFailure(ListenersUtilities.java:28)
+
+# Created at 2021-11-10T10:33:51.178
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.183
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1716)
+
+# Created at 2021-11-10T10:33:51.190
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.192
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+
+# Created at 2021-11-10T10:33:51.195
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.197
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
+
+# Created at 2021-11-10T10:33:51.201
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.204
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+
+# Created at 2021-11-10T10:33:51.206
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.208
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+
+# Created at 2021-11-10T10:33:51.209
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.213
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+
+# Created at 2021-11-10T10:33:51.217
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.221
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+
+# Created at 2021-11-10T10:33:51.224
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.226
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+
+# Created at 2021-11-10T10:33:51.228
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.230
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:610)
+
+# Created at 2021-11-10T10:33:51.231
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.233
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+
+# Created at 2021-11-10T10:33:51.234
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.244
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+
+# Created at 2021-11-10T10:33:51.260
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.262
+Unexpected IOException with stream: 	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:421)
+
+# Created at 2021-11-10T10:33:51.264
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.265
+Unexpected IOException with stream: 	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+
+# Created at 2021-11-10T10:33:51.267
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.268
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+
+# Created at 2021-11-10T10:33:51.270
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.276
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+
+# Created at 2021-11-10T10:33:51.278
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.280
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+
+# Created at 2021-11-10T10:33:51.284
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.288
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:834)
+
+# Created at 2021-11-10T10:33:51.291
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.294
+Unexpected IOException with stream: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TEKARCH', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54672}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8928cf1c465b79fcdcec1c23c1c02ef7
+
+# Created at 2021-11-10T10:33:51.295
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.297
+Unexpected IOException with stream: 	at jdk.internal.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+
+# Created at 2021-11-10T10:33:51.300
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.302
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-11-10T10:33:51.303
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.307
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+
+# Created at 2021-11-10T10:33:51.309
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.312
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-11-10T10:33:51.321
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.323
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-11-10T10:33:51.325
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.326
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-11-10T10:33:51.328
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.330
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-11-10T10:33:51.331
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.333
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-11-10T10:33:51.359
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.360
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-11-10T10:33:51.369
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.371
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-11-10T10:33:51.372
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.374
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+# Created at 2021-11-10T10:33:51.376
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.378
+Unexpected IOException with stream: 	at sfdc.utilities.BasicUtilities.getScreenCapture(BasicUtilities.java:106)
+
+# Created at 2021-11-10T10:33:51.379
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.381
+Unexpected IOException with stream: 	at sfdc.utilities.ListenersUtilities.onTestFailure(ListenersUtilities.java:28)
+
+# Created at 2021-11-10T10:33:51.382
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.385
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1716)
+
+# Created at 2021-11-10T10:33:51.387
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.388
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+
+# Created at 2021-11-10T10:33:51.391
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.392
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
+
+# Created at 2021-11-10T10:33:51.394
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.396
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+
+# Created at 2021-11-10T10:33:51.398
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.404
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+
+# Created at 2021-11-10T10:33:51.407
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.410
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+
+# Created at 2021-11-10T10:33:51.411
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.412
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+
+# Created at 2021-11-10T10:33:51.415
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.420
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+
+# Created at 2021-11-10T10:33:51.422
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.427
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:610)
+
+# Created at 2021-11-10T10:33:51.432
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.434
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+
+# Created at 2021-11-10T10:33:51.438
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.440
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+
+# Created at 2021-11-10T10:33:51.441
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.443
+Unexpected IOException with stream: 	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:421)
+
+# Created at 2021-11-10T10:33:51.444
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.445
+Unexpected IOException with stream: 	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+
+# Created at 2021-11-10T10:33:51.447
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.450
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+
+# Created at 2021-11-10T10:33:51.469
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.475
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+
+# Created at 2021-11-10T10:33:51.479
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.482
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+
+# Created at 2021-11-10T10:33:51.488
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.494
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:834)
+
+# Created at 2021-11-10T10:33:51.498
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.502
+Unexpected IOException: 8,1,sfdc.tests.Login,loginTC01(sfdc.tests.Login),null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A*** Element info: {Using=id\002C value=exception},null,no such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A*** Element info: {Using=id\002C value=exception},Login.loginTC01:103 \00BB NoSuchWindow no such window: target window already close...,org.openqa.selenium.NoSuchWindowException: \000Ano such window: target window already closed\000Afrom unknown error: web view not found\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A*** Element info: {Using=id\002C value=exception}\000A\0009at sfdc.tests.Login.loginTC01(Login.java:103)\000A
+
+
+# Created at 2021-11-10T10:33:51.505
+Unexpected IOException with stream: C:\Users\user\eclipse-workspace\SalesForceAutomationFramework//target//Reports//11_10_21,_10_33_AM.PNG
+
+
+# Created at 2021-11-10T10:33:51.513
+Unexpected IOException with stream: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=95.0.4638.69)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'TEKARCH', ip: '192.168.1.12', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 95.0.4638.69, chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe..., userDataDir: C:\Users\user\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54672}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8928cf1c465b79fcdcec1c23c1c02ef7
+
+# Created at 2021-11-10T10:33:51.516
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.519
+Unexpected IOException with stream: 	at jdk.internal.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+
+# Created at 2021-11-10T10:33:51.522
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.525
+Unexpected IOException with stream: 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2021-11-10T10:33:51.528
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.530
+Unexpected IOException with stream: 	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+
+# Created at 2021-11-10T10:33:51.531
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.532
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+
+# Created at 2021-11-10T10:33:51.534
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.538
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+
+# Created at 2021-11-10T10:33:51.548
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.551
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+
+# Created at 2021-11-10T10:33:51.559
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.564
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+
+# Created at 2021-11-10T10:33:51.567
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.569
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+
+# Created at 2021-11-10T10:33:51.571
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.572
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+
+# Created at 2021-11-10T10:33:51.577
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.580
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+
+# Created at 2021-11-10T10:33:51.582
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.585
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:295)
+
+# Created at 2021-11-10T10:33:51.586
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.589
+Unexpected IOException with stream: 	at sfdc.utilities.BasicUtilities.getScreenCapture(BasicUtilities.java:106)
+
+# Created at 2021-11-10T10:33:51.596
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.601
+Unexpected IOException with stream: 	at sfdc.utilities.ListenersUtilities.onTestFailure(ListenersUtilities.java:28)
+
+# Created at 2021-11-10T10:33:51.607
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.609
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1716)
+
+# Created at 2021-11-10T10:33:51.612
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.613
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1699)
+
+# Created at 2021-11-10T10:33:51.625
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.639
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeMethod(Invoker.java:703)
+
+# Created at 2021-11-10T10:33:51.646
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.648
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+
+# Created at 2021-11-10T10:33:51.652
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.659
+Unexpected IOException with stream: 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+
+# Created at 2021-11-10T10:33:51.664
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.669
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+
+# Created at 2021-11-10T10:33:51.671
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.673
+Unexpected IOException with stream: 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+
+# Created at 2021-11-10T10:33:51.676
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.680
+Unexpected IOException with stream: 	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+
+# Created at 2021-11-10T10:33:51.682
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.685
+Unexpected IOException with stream: 	at org.testng.TestRunner.run(TestRunner.java:610)
+
+# Created at 2021-11-10T10:33:51.689
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.695
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+
+# Created at 2021-11-10T10:33:51.699
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.702
+Unexpected IOException with stream: 	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+
+# Created at 2021-11-10T10:33:51.703
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.706
+Unexpected IOException with stream: 	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:421)
+
+# Created at 2021-11-10T10:33:51.707
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.709
+Unexpected IOException with stream: 	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+
+# Created at 2021-11-10T10:33:51.710
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.712
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+
+# Created at 2021-11-10T10:33:51.715
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.717
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+
+# Created at 2021-11-10T10:33:51.719
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.739
+Unexpected IOException with stream: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+
+# Created at 2021-11-10T10:33:51.744
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:51.746
+Unexpected IOException with stream: 	at java.base/java.lang.Thread.run(Thread.java:834)
+
+# Created at 2021-11-10T10:33:51.748
+Unexpected IOException with stream: 
+
+
+# Created at 2021-11-10T10:33:55.817
+Unexpected IOException: 8,1,sfdc.tests.Login,finishTest(sfdc.tests.Login),null,chrome not reachable\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7,null,chrome not reachable\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7,Login.finishTest:60 \00BB WebDriver chrome not reachable\000A  (Session info: chrome=9...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=95.0.4638.69)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'TEKARCH'\002C ip: '192.168.1.12'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '11.0.8'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 95.0.4638.69\002C chrome: {chromedriverVersion: 95.0.4638.69 (6a1600ed572fe...\002C userDataDir: C:\005CUsers\005Cuser\005CAppData\005CLocal...}\002C goog:chromeOptions: {debuggerAddress: localhost:54672}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:extension:credBlob: true\002C webauthn:extension:largeBlob: true\002C webauthn:virtualAuthenticators: true}\000ASession ID: 8928cf1c465b79fcdcec1c23c1c02ef7\000A\0009at sfdc.tests.Login.finishTest(Login.java:60)\000A
+
+
+# Created at 2021-11-10T10:33:56.207
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

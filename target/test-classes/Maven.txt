@@ -1,0 +1,38 @@
+Maven:
+
+Build and dependency management tool
+
+Mobile --> Appstore, Play store .apk, .ipa
+Web--> URL  --> .war/.jar 
+ Build artifacts: .war, reports, logs
+ 
+ Dependency --> Pom.xml (proj obj model) --> xml language
+ Settings.xml -->All the configurations on how maven should function is written in settings.xml
+ Banking, Ecomerce, Financial --> Own maven repository
+ .m2 --> Local repository of maven /users/user/mithun/.m2
+ 
+ New dependency--> .m2 (If available)
+ ownartifactory --> download 
+ If not --> https://mvnrepository.com/artifact --> downloads to local
+ 
+ 
+ 
+Built in build lifecycle:
+a. Default: Project build to deployment stage
+b. clean: clean the previous artifacts project cleaning
+c. site: Creationo od project site documentation
+
+Build lifecycle is made up of phases:
+a. Validate: It checks a;; necessary informartion is available or not
+b. Compile: compile source code of proj
+c. test: test the compiled code using anyof the unit tesitng framework
+d. package: take the compliled code and based on the result of unit tests start packaging(.jar/.war/.ipk/.apk/.wgt/.ipa/.appxbundle/.wpa)
+e. integration tests: process and deploy the package run integration tests
+f. verify: Package meets the expectation
+g. Install: Install in local repo, for 
+h. deploy: dev env, QA/test env, stage/production, production
+
+Maven goals: 
+
+
+
